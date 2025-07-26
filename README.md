@@ -24,7 +24,6 @@ This is a simple web app built using [Streamlit](https://streamlit.io/) to demon
 Check out the live version of the app here:  
 👉 [Streamlit App Link](https://first-app-project.streamlit.app/)
 
-> Replace the above link with your actual deployed URL from Streamlit Cloud.
 
 ## 📦 Requirements
 
