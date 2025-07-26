@@ -14,8 +14,8 @@ This is a simple web app built using [Streamlit](https://streamlit.io/) to demon
 
 ## 📸 Screenshot
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1645e8d0-07b6-4c1d-a303-7361d2d65eab" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/620247ce-0cce-4b85-81b3-19c9a4bbae1f" />
+<img width="1256" height="734" alt="image" src="https://github.com/user-attachments/assets/98c6b2cc-1472-4efe-b793-c4f68ac82abe" />
+
 
 
 
